@@ -1,0 +1,1 @@
+InstallUtil.exe /U /servicename="ExceptionMailer" ../ExceptionMailer.exe
